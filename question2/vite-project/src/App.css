@@ -1,0 +1,5 @@
+/* App.css */
+.dark { background: black; color: white; }
+.light { background: white; color: black; }
+header { padding: 20px; display: flex; justify-content: space-between; }
+button { padding: 10px; cursor: pointer; }
